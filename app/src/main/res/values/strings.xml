@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="add_task">Add task</string>
+    <string name="enter_task">Enter the task to add</string>
+    <string name="no_tasks">Please add some tasks :(</string>
+    <string name="done">Done</string>
+    <string name="add_desc">Add desc</string>
+    <string name="popup_text">Task description</string>
+
+</resources>
